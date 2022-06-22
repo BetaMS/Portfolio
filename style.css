@@ -456,7 +456,7 @@ p{
 }
 
 .w_about__details--inner#details p{
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 /* width */
@@ -770,7 +770,7 @@ padding-left: 0.75em;
         order: 2;
         height: 375px;
         width: 375px;
-        margin-top: -8em;
+        margin-top: -0.5em;
         margin-bottom: 2em;
     }
 
@@ -865,6 +865,8 @@ padding-left: 0.75em;
     .w_about__image--image{
         height: 600px;
         width: 600px;
+        max-width: 50vw;
+        max-height: 50vw;
     }
 
     .navMenu{
@@ -873,8 +875,8 @@ padding-left: 0.75em;
     }
 
     .navMenu a{
-        font-size: 2.2em;
-        padding-left: 10em;
+        font-size: 1.4em;
+        padding-left: 3em;
     }
 
     h1{
