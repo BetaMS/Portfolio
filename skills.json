@@ -1,0 +1,221 @@
+[
+    {
+        "hard-soft":"hard",
+        "name": "Javascript, Typescript, Jquery, Ajax, etc",
+        "level": "5",
+        "write-up": "<p>JavaScript is easily my most proficient language, having spent the most time coding with it. I have worked on dozens of projects implementing dozens of features, and have trouble shot hundreds of JavaScript errors.</p><p class='before_list'>Some examples are:</p><ul><li>Turned a physical educational board game into a web based board game made from scratch with purely javascript. Can be played here at <a href='https://www.cycleofhunger.ca'>https://www.cycleofhunger.ca</a>/</li><li>Helped build CTRI's new site, implementing dozens of JavaScript features, using jquery & ajax to create a dynamic user experience.</li><li>Created dozens of calculators, grids, loadmore features, filters and various kinds of features. To solve real world problems given by clients. <a href='https://insolvency.lazergrant.ca/'>insolvency.lazergrant.ca</a> <a href='https://www.crombie.ca'>Crombie.ca</a> <a href='https://www.fitnessexperience.ca'>fitnessexperience.ca</a></li><li>Coded this site, creating a dynamic user experience to show off my skills as a developer. </li></ul>",
+        "projects": "cycle_1.png|cycle_2.png|lazergrant_1.png|crombie_1.png|fitness_1.png|fitness_2.png|fitness_3.png|ctri_new_1.png|ctri_new_2.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "name": "React, Angular, Vue...",
+        "level": "5",
+        "write-up": "<p>React, is a framework I've been using all through my coding career. Having first used it during my project term, I've continued to almost exclusively use it for my personal projects, and have even used it a few times on the job.</p><p>I've also spent time learning similar component based systems like Angular, and Vue. </p><p class='before_list'>Some examples are:</p><ul><li>Worked with a team to design and implement a functioning web scheduler and portal so their clients could make appointments and manage their information with react.</li><li>Created and designed a functional web application using React, CSS, and JavaScript to help others in an online community. <a href='https://www.pickmeaclass.com'>pickmeaclass.com</a></li><li>Put together the first iteration of the product library for the site rebuild of the site for <a href='ca.ctrinstitute.com'>ctrinstitute.com</a>. Feeding in products with php, and creating a dynamic system to display content, and display it through different screens with React.</li></ul>",
+        "projects": "pickme_1.png|pickme_2.png|pickme_3.png|ctri_new_3.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "name": "PhP",
+        "level": "5",
+        "write-up": "<p>I've been using the PhP language daily ever since my job at Hello Digital Marketing. Since we work with a lot of WordPress sites, I've done a lot of work creating custom functionality with PHP almost daily.</p><p class='before_list'>Some examples are:</p><ul><li>Created, and managed various grids to display information in a quick and efficient fashion over dozens of sites. <a href='https://www.crombie.ca'>Crombie.ca</a> <a href='https://www.fitnessexperience.ca'>fitnessexperience.ca</a> <a href='https://www.netleymillwork.com/'>netleymillwork.com/</a></li><li>Created a community based social media type platform for a club to help increase and gage user participation within the club. This included activity feeds, user profiles, point based user retention system and lots more. <a href='https://www.themetroclub.com'>themetroclub.com</a></li><li>Troubleshot hundreds of php errors and issues Figuring out what was wrong with both active projects and client sites. Learning how to properly find and fix hundreds of php, and WordPress issues.</li></ul>",
+        "projects": "crombie_1.png|fitness_1.png|fitness_2.png|fitness_3.png|netley_1.png|netley_2.png|metro_1.png|metro_2.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "name": "Wordpress, Shopify, Drupal, etc",
+        "level": "5",
+        "write-up": "<p>At Hello Digital Marketing WordPress sites where our bread and butter, so I've been able to learn this cms system like the back of my hand. Through my time with WordPress I've worked with all the big plugins like WooCommerce & Buddypress, while also learning the skills to actively develop in the environment.</p><p>During my experience with Hello i've spent a lot of time in the Shopify enviorment, implementing new designs, creating new features and working in the Shopify backend.</p><p>I've also spent time on my own learning other cms systems like Drupal, square-space and more.</p><p class='before_list'>Some examples are:</p><ul><li>Created a community based social media type platform for a club to help increase and gage user participation within the club. This included activity feeds, user profiles, point based user retention system and lots more. <a href='https://www.themetroclub.com'>themetroclub.com</a></li><li>Supported, updated and built functionality for dozens of WordPress & Shopify sites where I created new features, updated site designs and problem solved issues as they arose. Some examples of sites I’ve worked on are: <a href='https://www.crombie.ca'>crombie.ca</a> <a href='https://netleymillwork.com'>netleymillwork.com</a> <a href='ca.ctrinstitute.com'>ctrinstitute.com</a> <a href='https://www.fitnessexperience.ca'>fitnessexperience.ca</a>, <strong>and many more.</strong> </li></ul>",
+        "projects": "metro_1.png|metro_2.png|crombie_1.png|netley_1.png|netley_2.png|ctri_new_1.png|ctri_new_2.png|fitness_1.png|fitness_2.png|fitness_3.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "name": "Css, Sass, HTML",
+        "level": "5",
+        "write-up": "<p>I've been using css since my first day, learning web development at red river and have worked on dozens of projects styling with CSS & Sass at Hello Digital Marketing.</p><p class='before_list'>Some examples are:</p><ul><li>Took designs from a client provided designer, implementing exact and responsive styles so the pages looked good on all browsers and devices. <a href='https:///www.fitnessexperience.ca'>fitnessexperience.ca</a></li><li>Took in house provided designs and implemented styles on complex, unresponsive, and outdated markup. Using unique selectors to replicate a design in an efficient manner.  <a href='https://codepen.io/hellodm/pen/abWpdmV/903058d7d0e133b47c436bfbd87de4c5'>codepen</a></li><li>Worked on dozens of sites fixing styling issues, animating containers, and creating responsive design.</li></ul>",
+        "projects": "fitness_1.png|fitness_2.png|fitness_3.png|dealer_1.png|cycle_1.png|cycle_2.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "name": "SQL",
+        "level": "3",
+        "write-up": "<p>In school databases was one of the classes that came the easiest to me, and learning SQL was a huge part of that. I find that I've used it quite frequently in my day to day at work, manipulating and managing data structures to store and access data efficiently.</p><p class='before_list'>Some examples are:</p><ul><li>Created a complex point system alongside an existing structure to link value to an achievement system and apply that to user interaction of a site. <a href='https://www.themetroclub.com'>themetroclub.com</a></li><li>Helped manage a complex legacy database, solving issues that arose, calling existing data, and manipulating it properly through anonymous functions. <a href='ca.ctrinstitute.com'>ctrinstitute.com</a> </li></ul>",
+        "projects": "metro_1.png|metro_2.png|ctri_new_1.png|ctri_new_2.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "id": "1",
+        "name": "C# & Java",
+        "level": "3",
+        "write-up": "<p>C# & Java where the main languages used to teach programming in the B.I.T program at RRC Polytech. There I learnt object oriented programming, best practises with C# & Java, MVC programming principles and how to work with ASP.Net.</p><ul><li>Produced a fully functional business application using C#, MVC and the .Net Framework.</li><li>Designed a functioning mobile application to solve real world problem, using Java, SQLite, and Android Developer.</li><li>Developed dozens of desktop & mobile applications of varying sizes to solve real world problems, using Java, C# and ASP .Net</li></ul>",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "id": "1",
+        "name": "Python",
+        "level": "3",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
+        "id": "1",
+        "name": "Graphic Design",
+        "level": "1",
+        "write-up": "<p>I am not a graphic designer.</p><p>I can however decently edit photos, animate with css & javascript, I can create wire frames and I'm decent with manipulating svgs.</p>",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Problem Solving",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Ability To Learn",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Creativity",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Innovative Thinking",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Conflict Resolution",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Leadership",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Communication",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Flexability",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Resourcefulness",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"soft",
+        "id": "1",
+        "name": "Troubleshooting",
+        "level": "1",
+        "write-up": "",
+        "projects": "",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Personal",
+        "level": "1",
+        "write-up": "<p>Created this resume site using javascript, Css & Html. To help show off my experience and skills as a developer. <a href='www.mattaross.com'>mattaross.com</a></p>",
+        "projects": "",
+        "Icon": "This Portfolio Site!"
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Front-End Developer",
+        "level": "1",
+        "write-up": "<p>Hello Digital Marketing is a Winnipeg based Web Design & Digital Marketing Agency that creates, manages, and maintains websites for companies all across the country, typically using WordPress and Shopify.</p><p class='before_list'>Some examples are:</p><ul><li>Created a web based version of a physical board game, where I had to translate a physical rulesets into complex JavaScript functionality. <a href='https:://www.cycleofhunger.ca'>cycleofhunger.ca</a></li><li>Supported, updated and built functionality for dozens of WordPress & Shopify sites where I created new features, updated site designs and problem solved issues as they arose. Some examples of sites I’ve worked on are: <a href='https://www.crombie.ca'>crombie.ca</a> <a href='https://www.netleymillwork.com'>netleymillwork.com</a> <a href='https://ca.ctrinstitute.com'>ctrinstitute.com</a> <a href='https://www.fitnessexperience.ca'>fitnessexperience.ca</a> and many more.</li></ul>",
+        "projects": "metro_1.png|metro_2.png|crombie_1.png|netley_1.png|netley_2.png|ctri_new_1.png|ctri_new_2.png|fitness_1.png|fitness_2.png|fitness_3.png|cycle_1.png|cycle_2.png|lazergrant_1.png",
+        "Icon": "Hello Digital Marketing"
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Software Developer",
+        "level": "1",
+        "write-up": "<p>Business Information Technology’s Industry Project provides students with experience working as a team to create real-world IT solutions for real entrepreneurs.</p><p class='before_list'>Some examples are:</p><ul><li>Worked with a team to design and implement a functioning web scheduler and portal so their clients could make appointments and manage their information. For this project we used React, JavaScript, HTML, CSS and AWS.</li></ul>",
+        "projects": "",
+        "Icon": "Ace Project Space"
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Personal",
+        "level": "1",
+        "write-up": "<p>Pick me a class is a simple web application that works kind of like a flow chart.<br/><br/>The application continuely asks questions, allowing the user to pick between 2 answers until they are given a DnD 5e class that fits with the questions asked.<br/><br/>It was designed with new players in mind, the questions being simple and focused on encompassing the entire class to help with class picking. <a href='www.pickmeaclass.com'>pickmeaclass.com</a></p>",
+        "projects": "pickme_1.png|pickme_2.png|pickme_3.png",
+        "Icon": "Pick Me A Class"
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Student",
+        "level": "1",
+        "write-up": "<p>Business Information Technology provides a solid foundation in information technology with a strong focus on Application Development, Web Development, Database Management and Networking.</p><p class='before_list'>Some examples are:</p><ul><li>Worked with team to Design and Implement a functioning web application for a client; using React, JavaScript and AWS.</li><li>Produced a fully functional business application using C#, MVC and the .Net Framework.</li><li>Designed a functioning mobile application to solve real world problem, using Java, SQLite, and Android Developer.</li><li>Developed dozens of desktop & mobile applications of varying sizes to solve real world problems, using JavaScript, Css, Java, Python, SQL, C# and ASP .Net.</li></ul>",
+        "projects": "python_1.png",
+        "Icon": "Red River College"
+    },
+    {
+        "hard-soft":"experience",
+        "id": "1",
+        "name": "Student",
+        "level": "1",
+        "write-up": "<h5>University 1 - Focus on Enviormental Design</h4><p>Learnt key design principals with a focus on general layout and the overall functionality of design.</p>",
+        "projects": "",
+        "Icon": "University of Manitoba"
+    }
+]
