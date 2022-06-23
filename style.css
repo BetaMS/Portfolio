@@ -930,6 +930,10 @@ padding-left: 0.75em;
     .w_about__details{
         height: 600px;
     }
+
+    #intro_title{
+        margin-bottom: 4em;
+    }
 }
 
 @media (orientation:landscape){
