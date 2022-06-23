@@ -80,6 +80,11 @@ function projectOnClick(e){
             child.classList.add('hidden');
             console.log(child);
            });
+
+        document.querySelectorAll('.lightbox_container').forEach(function(box){
+            box.classList.add('hidden');
+        })
+
     }
 
     

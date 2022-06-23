@@ -845,8 +845,8 @@ padding-left: 0.75em;
         height: 82.25%;
     }
 
-    #hard_description, #soft_description, #experience_description{
-        max-height: 700px;
+    #hard_description > div, #soft_description > div, #experience_description > div{
+        height: 100%;
     }
 
     #hard_description p, #soft_description p, #experience_description p{
@@ -857,11 +857,10 @@ padding-left: 0.75em;
     #hard_description li, #soft_description li, #experience_description li{
         font-size: 1.6em;
         font-weight: 500;
-    }
-    
+    }  
 }
 
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 879px) {
     .w_about__image--image{
         height: 600px;
         width: 600px;
@@ -904,3 +903,148 @@ padding-left: 0.75em;
         height: 40%;
     }
   }
+
+
+@media only screen and (max-device-width: 768px){
+    .w_projects__info--container{
+        margin-top: 2em;
+    }
+
+    .w_about--container{
+        justify-content: flex-end;
+    }
+    .w_about__details{
+        height: 580px;
+    }
+}
+
+@media (orientation:portrait) and (max-device-width: 768px){
+    .w_about{
+        justify-content: center;
+    }
+
+    .w_about--title{
+        margin-bottom: 8em;
+    }
+
+    .w_about__details{
+        height: 600px;
+    }
+}
+
+@media (orientation:landscape) and (max-device-width: 768px){
+    .w_sections{
+        height: 95vh;
+    }
+    .w_about{
+        padding-top: 4em;
+    }
+
+    .w_about--title{
+        margin-bottom: -4em;
+        /* margin-top: 2em; */
+        margin-right: 4em;
+    }
+
+    .w_about--title h1{
+        font-size: 9vw;
+    }
+
+    .w_about--container{
+        height: 100%;
+        flex-direction: row;
+    }
+
+    .w_about__button{
+        flex-direction: column;
+    }
+
+    .w_about__button button{
+        width: 50%;
+    }
+
+    .w_about__details--inner#about{
+        font-size: .9em;
+    }
+
+    .w_about__details--inner#details{
+        font-size: .9em
+    }
+
+    .w_about__details{
+        height: 300px;
+        margin-left: 0;
+    }
+
+    .w_about__image--image{
+        order: unset;
+        margin-top: 0 !important;
+        margin-left: 2em;
+        margin-right: 1em;
+        width: 165px;
+        height: 165px;
+    }
+
+    .btn{
+        margin-bottom: 1em !important;
+    }
+
+    .hiking{
+        margin-top: 2em;
+    }
+
+    .interests_icon--container{
+        margin-bottom: 1.5em;
+    }
+
+    .interests_icon--container strong{
+        font-size: 1.1em;
+    }
+
+    .interests_icon{
+        width: 50px;
+    }
+
+    .w_projects {
+        flex-direction: row;
+    }
+
+    .w_projects__info{
+        margin-top: 0;
+        height: 95%;
+        width: 52.5%;
+    }
+
+    .w_projects__skills{
+        height: 87.5%;
+        width: 45%;
+    }
+
+    .w_projects__info--container{
+        height: 65%;
+    }
+
+    .list_item h3{
+        font-size: 1.5em;
+    }
+
+    #hard_description p, #soft_description p, #experience_description p{
+        font-size: 1.5em;
+    }
+
+    #hard_description li, #soft_description li, #experience_description li{
+        font-size: 1.4em;
+    }
+
+    #hard_description h3, #soft_description h3, #experience_description h3{
+        font-size: 2em;
+    }
+
+    #hard-starter h2, #soft-starter h2, #experience-starter h2{
+        font-size: 4em;
+    }
+
+    #hard-starter p, #soft-starter p, #experience-starter p{
+        font-size: 1.4em;
+    }
+}
