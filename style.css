@@ -438,7 +438,7 @@ p{
     padding: 1em;
     padding-bottom: 0;
     padding-top: 1vw;
-    font-size: 1.2em;
+    font-size: 1.1em;
     overflow-y: scroll;
 }
 
@@ -453,6 +453,11 @@ p{
     flex-direction:column;
     height: 100%;
     font-size: 1.2em;
+    overflow: scroll;
+}
+
+.w_projects__info—-container{
+    margin-top: 4em;
 }
 
 .w_about__details--inner#details p{
@@ -504,7 +509,7 @@ p{
     justify-content: center;
     flex-direction: column;
     height: 100%;
-    margin-top: 2em;
+    margin-top: 0;
     color: white;
 }
 
@@ -764,6 +769,7 @@ padding-left: 0.75em;
         height: unset;
         flex-direction: column-reverse;
         font-size: 1.5em;
+        height: 95%;
     }
 
     .w_about__image--image{
@@ -818,7 +824,7 @@ padding-left: 0.75em;
     }
 
     #interests{
-        margin-top: 1em;
+        margin-top: 2em;
     }
 
     .w_projects{
@@ -931,6 +937,10 @@ padding-left: 0.75em;
         margin-bottom: 8em;
     }
 
+    .w_about--container{
+        height: unset;
+    }
+
     .w_about__details{
         height: 600px;
     }
@@ -940,7 +950,11 @@ padding-left: 0.75em;
     }
 }
 
-@media (orientation:landscape){
+@media (orientation:landscape) and (hover: none) and (pointer: coarse){
+    .w_projects__info—-container{
+        margin-top: 0;
+    }
+
     .w_sections{
         height: 95vh;
     }
