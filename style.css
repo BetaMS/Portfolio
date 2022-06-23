@@ -919,6 +919,10 @@ padding-left: 0.75em;
 }
 
 @media (orientation:portrait) and (max-device-width: 768px){
+    .w_intro{
+        height: 95vh;
+    }
+    
     .w_about{
         justify-content: center;
     }
