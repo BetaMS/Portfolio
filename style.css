@@ -932,7 +932,7 @@ padding-left: 0.75em;
     }
 }
 
-@media (orientation:landscape) and (max-device-width: 768px){
+@media (orientation:landscape){
     .w_sections{
         height: 95vh;
     }
