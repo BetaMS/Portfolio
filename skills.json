@@ -9,14 +9,6 @@
     },
     {
         "hard-soft":"hard",
-        "name": "React, Angular, Vue...",
-        "level": "5",
-        "write-up": "<p>React, is a framework I've been using all through my coding career. Having first used it during my project term, I've continued to almost exclusively use it for my personal projects, and have even used it a few times on the job.</p><p>I've also spent time learning similar component based systems like Angular, and Vue. </p><p class='before_list'>Some examples are:</p><ul><li>Worked with a team to design and implement a functioning web scheduler and portal so their clients could make appointments and manage their information with react.</li><li>Created and designed a functional web application using React, CSS, and JavaScript to help others in an online community. <a href='https://www.pickmeaclass.com'>pickmeaclass.com</a></li><li>Put together the first iteration of the product library for the site rebuild of the site for <a href='ca.ctrinstitute.com'>ctrinstitute.com</a>. Feeding in products with php, and creating a dynamic system to display content, and display it through different screens with React.</li></ul>",
-        "projects": "pickme_1.png|pickme_2.png|pickme_3.png|ctri_new_3.png",
-        "Icon": ""
-    },
-    {
-        "hard-soft":"hard",
         "name": "PhP",
         "level": "5",
         "write-up": "<p>I've been using the PhP language daily ever since my job at Hello Digital Marketing. Since we work with a lot of WordPress sites, I've done a lot of work creating custom functionality with PHP almost daily.</p><p class='before_list'>Some examples are:</p><ul><li>Created, and managed various grids to display information in a quick and efficient fashion over dozens of sites. <a href='https://www.crombie.ca'>Crombie.ca</a> <a href='https://www.fitnessexperience.ca'>fitnessexperience.ca</a> <a href='https://www.netleymillwork.com/'>netleymillwork.com/</a></li><li>Created a community based social media type platform for a club to help increase and gage user participation within the club. This included activity feeds, user profiles, point based user retention system and lots more. <a href='https://www.themetroclub.com'>themetroclub.com</a></li><li>Troubleshot hundreds of php errors and issues Figuring out what was wrong with both active projects and client sites. Learning how to properly find and fix hundreds of php, and WordPress issues.</li></ul>",
@@ -41,8 +33,16 @@
     },
     {
         "hard-soft":"hard",
+        "name": "React, Angular, Vue...",
+        "level": "4",
+        "write-up": "<p>React, is a framework I've been using all through my coding career. Having first used it during my project term, I've continued to almost exclusively use it for my personal projects, and have even used it a few times on the job.</p><p>I've also spent time learning similar component based systems like Angular, and Vue. </p><p class='before_list'>Some examples are:</p><ul><li>Worked with a team to design and implement a functioning web scheduler and portal so their clients could make appointments and manage their information with react.</li><li>Created and designed a functional web application using React, CSS, and JavaScript to help others in an online community. <a href='https://www.pickmeaclass.com'>pickmeaclass.com</a></li><li>Put together the first iteration of the product library for the site rebuild of the site for <a href='ca.ctrinstitute.com'>ctrinstitute.com</a>. Feeding in products with php, and creating a dynamic system to display content, and display it through different screens with React.</li></ul>",
+        "projects": "pickme_1.png|pickme_2.png|pickme_3.png|ctri_new_3.png",
+        "Icon": ""
+    },
+    {
+        "hard-soft":"hard",
         "name": "SQL",
-        "level": "3",
+        "level": "4",
         "write-up": "<p>In school databases was one of the classes that came the easiest to me, and learning SQL was a huge part of that. I find that I've used it quite frequently in my day to day at work, manipulating and managing data structures to store and access data efficiently.</p><p class='before_list'>Some examples are:</p><ul><li>Created a complex point system alongside an existing structure to link value to an achievement system and apply that to user interaction of a site. <a href='https://www.themetroclub.com'>themetroclub.com</a></li><li>Helped manage a complex legacy database, solving issues that arose, calling existing data, and manipulating it properly through anonymous functions. <a href='ca.ctrinstitute.com'>ctrinstitute.com</a> </li></ul>",
         "projects": "metro_1.png|metro_2.png|ctri_new_1.png|ctri_new_2.png",
         "Icon": ""
