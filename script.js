@@ -188,10 +188,10 @@ function fill_lists(json){
 
                 let link = document.createElement('a');
                 link.setAttribute('data-lightbox', i);
-                link.setAttribute('href', '/images/Experience/' + the_image);
+                link.setAttribute('href', '/images/experience/' + the_image);
                 
                 let inner_img = document.createElement('img');
-                inner_img.setAttribute('src', '/images/Experience/' + the_image);
+                inner_img.setAttribute('src', '/images/experience/' + the_image);
                 inner_img.classList.add('lightbox_image');
 
                 link.appendChild(inner_img);
